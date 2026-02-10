@@ -1,0 +1,3 @@
+public enum Opzione {
+    LOGIN,ACCESSO,NEGATO,VOTI,MODIFICA,NO,OK,LOGOUT;
+}
